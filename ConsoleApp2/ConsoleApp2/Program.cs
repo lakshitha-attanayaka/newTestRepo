@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Comment
 namespace ConsoleApp2
 {
 	internal class Program
